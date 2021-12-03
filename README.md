@@ -13,3 +13,13 @@
 
 ~~this is a strike through~~
 
+* fruits
+  * apple
+  * banana
+  * mango
+1. vegetables
+    1. potato
+    2. onion
+    3. tomato  
+
+
